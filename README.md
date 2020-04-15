@@ -1,3 +1,5 @@
 # git
 
 AFTER CHANGE
+
+LOCAL CHANGE
